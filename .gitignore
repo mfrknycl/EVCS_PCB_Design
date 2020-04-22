@@ -1,0 +1,14 @@
+*.zip
+History/
+NotUsed/
+Project Logs for EVSE_Controller_v0.1/
+Project Outputs for EVSE_Controller_v0.1
+*.log
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.OutJob
+*.PcbLib
+*.SCHLIB
+__Previews
+PCB_v0.1.PcbDoc
+PCB_v0.2.PcbDoc
